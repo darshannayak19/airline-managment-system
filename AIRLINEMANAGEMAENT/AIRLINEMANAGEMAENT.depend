@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1604829274 source:c:\users\abc\documents\airlinemanagemaent\airline.cpp
+	"airline.h"
+	"user.h"
+	<stdio.h>
+
+1582356144 c:\users\abc\documents\airlinemanagemaent\airline.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
+1582363139 source:c:\users\abc\documents\airlinemanagemaent\start.cpp
+	"airline.h"
+	"User.h"
+	<stdio.h>
+
+1582359460 c:\users\abc\documents\airlinemanagemaent\user.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+
+1605007152 source:c:\users\abc\documents\airlinemanagemaent\user.cpp
+	"user.h"
+	"airline.h"
+
